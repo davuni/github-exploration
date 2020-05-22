@@ -24,4 +24,4 @@ An inspiring programming language powered by traditional Chinese characters.
 
 > https://github.com/davuni/arc-indicator
 
-A VBA macro that generates an arc-shaped indicator on PowerPoint slides. I forked and reimplemented it!
+A VBA macro that generates an arc-shaped indicator in PowerPoint slides. I remade it!
